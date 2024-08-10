@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.right img{
+   width: 100px;
+
+}
+
+
+.left ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.left ul li{
+    list-style: none;
+    padding: 10px;
+}
+
